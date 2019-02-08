@@ -1,6 +1,11 @@
 # ZHANA_CATALOG
 ABAP Based HANA Catalog Utilities
 
+## Download and Installation
+This project is maintained by [abapGit](https://github.com/larshp/abapGit).
+
+To install this project, [install abapGit](https://docs.abapgit.org/guide-install.html) first and then install this repository as [online repo](https://docs.abapgit.org/guide-online-install.html).
+
 ## Support
 This project is provided "as-is": there is no guarantee that raised issues will be answered or addressed in future releases.
 
